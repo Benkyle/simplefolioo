@@ -1,0 +1,1 @@
+{"version":"1.0.1","name":"simplefolio","dependencies":{"@parcel/transformer-sass":{"version":"2.7.0"},"@popperjs/core":{"version":"2.11.6"},"bootstrap":{"version":"5.2.0"},"jquery":{"version":"3.6.1"},"popper.js":{"version":"1.16.1"},"vanilla-tilt":{"version":"1.7.2"}}}
